@@ -7,9 +7,11 @@ Enables searches for tumor type and/or biomarker and/or intervention.
 
 ## Installation
 
-Biomarkers requires Apache and PHP.
+Biomarkers requires Apache and PHP. It also requires an NLM/NCBI API key. Learn how to get one here:
 
-Customize for your site in conf.php.
+https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/
+
+Customize the source code for your site in: conf.php
 
 ## License
 
